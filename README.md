@@ -4,9 +4,13 @@ Mojang Username to UUID Database Column Converter
 # Note
 This was a made quickly and dirty. You should make a backup of your database before using!
 
-# Usage
+#Install
+Install dependencies using [Composer](https://getcomposer.org/download/):
+`composer install`
+
 Copy config.php.dist to config.php and update with your database credentials.
 
+# Usage
 ## Flags
 - `--column=[column]` This is where the Usernames are that you want to convert to UUID's.
 - `--table=[tablename]` The table where your column is located.
