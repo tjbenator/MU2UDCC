@@ -1,0 +1,8 @@
+<?php
+return [
+	'engine'  	=> 'mysql',
+	'host' 		=> 'localhost',
+	'database' 	=> 'minecraft',
+	'username' 	=> 'username',
+	'password' 	=> 'secret'
+];

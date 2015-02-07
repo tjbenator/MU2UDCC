@@ -1,0 +1,14 @@
+{
+    "name": "tjbenator/mu2udcc",
+    "description": "Mojang Username to UUID Database Column Converter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Travis Beck",
+            "email": "tjbenator@gmail.com"
+        }
+    ],
+    "require": {
+        "navarr/minecraft-profile": "dev-master"
+    }
+}
